@@ -1,4 +1,4 @@
-# Deep Learning: Comparaison entre Modèles Profonds et Peu Profonds
+# Deep Learning: Comparing Shallow and Deep Models
 
 ## Description
 Ce projet explore l'impact du nombre de couches cachées sur les performances des réseaux de neurones en utilisant des **modèles peu profonds** et **modèles profonds**. L'objectif principal est de comparer ces deux approches à travers un jeu de données spécifique, tout en mettant en évidence leurs forces, leurs limites et les scénarios d'application optimaux.
