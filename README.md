@@ -46,7 +46,7 @@ Ce projet explore l'impact du nombre de couches cachées sur les performances de
 1. Assurez-vous d'avoir installé Python 3.8 ou une version supérieure.
 2. Installez les dépendances nécessaires :
    ```bash
-   pip install -r requirements.txt 
+   pip install pandas numpy scikit-learn tensorflow matplotlib 
 3. Ouvrez un terminal et exécutez la commande suivante :
    ```bash
    jupyter notebook DL-NL.ipynb
